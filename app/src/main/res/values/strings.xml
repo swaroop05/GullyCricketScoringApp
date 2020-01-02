@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gully Cricket Scoring App</string>
+    <string name="team_a"><u>Team A</u></string>
+    <string name="team_b"><u>Team B</u></string>
+    <string name="one_run">1 Run</string>
+    <string name="two_runs">2 Runs</string>
+    <string name="boundary_four_runs">Boundary</string>
+    <string name="six_runs">6 Runs</string>
+    <string name="wicket">Wicket</string>
+    <string name="reset_scores">Reset</string>
+</resources>
